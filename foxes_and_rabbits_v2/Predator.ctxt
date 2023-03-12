@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Predator
+comment0.text=\r\n\ An\ abstract\ class\ for\ the\ Predator\ interface.\r\n\ We\ implement\ this\ class\ in\ Fox\ class\ so\ we\ can\ use\ only\ the\ essential\ informetion.\r\n
+comment1.params=
+comment1.target=void\ incrementHunger()
+comment2.params=
+comment2.target=Location\ findFood()
+numComments=3

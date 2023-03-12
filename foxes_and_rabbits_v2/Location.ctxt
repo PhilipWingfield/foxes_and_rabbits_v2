@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ Represent\ a\ location\ in\ a\ rectangular\ grid.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2016.02.29\r\n
+comment1.params=row\ col
+comment1.target=Location(int,\ int)
+comment1.text=\r\n\ Represent\ a\ row\ and\ column.\r\n\ @param\ row\ The\ row.\r\n\ @param\ col\ The\ column.\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\r\n\ @return\ The\ row.\r\n
+comment3.params=
+comment3.target=int\ getCol()
+comment3.text=\r\n\ @return\ The\ column.\r\n
+numComments=4

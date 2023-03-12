@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hunter
+comment0.text=\r\n\ Here\ we\ create\ hunters.\r\n\ Hunters\ can\ move\ one\ step\ at\ a\ time,\ if\ there\ is\ a\ free\ space.\r\n\ Hunters\ can\ kill\ all\ the\ animals\ that\ are\ in\ the\ its\ neighboring\ cells.\r\n
+comment1.params=field\ location
+comment1.target=Hunter(Field,\ Location)
+comment1.text=\r\n\ Creates\ a\ hunter.\r\n\ Hunters\ have\ no\ age\ and\ they\ don't\ die.\ \r\n
+comment2.params=newActors
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ Here\ we\ choose\ how\ the\ hunter\ can\ act\ in\ the\ field.\r\n
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment3.text=\r\n\ Hunter\ is\ always\ alive\ and\ can't\ die.\r\n
+numComments=4

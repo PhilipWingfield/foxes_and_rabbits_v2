@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlacedObject_obselete
+comment1.params=field\ location
+comment1.target=PlacedObject_obselete(Field,\ Location)
+comment2.params=
+comment2.target=Location\ getLocation()
+comment3.params=newLocation
+comment3.target=void\ setLocation(Location)
+comment4.params=
+comment4.target=Field\ getField()
+comment5.params=
+comment5.target=void\ remove()
+numComments=6
